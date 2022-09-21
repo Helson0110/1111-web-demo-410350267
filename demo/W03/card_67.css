@@ -1,0 +1,12 @@
+body{
+    background-color: #f1b;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card{
+    background-color: #ffffff;
+    text-align: center;
+    width: 300px;
+    padding: 1.5rem 2rem;
+    margin: 300rem;
+    border: 1px solid black;
+}
