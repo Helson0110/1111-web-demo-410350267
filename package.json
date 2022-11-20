@@ -1,0 +1,23 @@
+{
+  "name": "1111-web-demo-410350267",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helson0110/1111-web-demo-410350267.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helson0110/1111-web-demo-410350267/issues"
+  },
+  "homepage": "https://github.com/Helson0110/1111-web-demo-410350267#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
