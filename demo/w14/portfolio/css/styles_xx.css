@@ -388,6 +388,27 @@ Hero
     border-radius: var(--radius);
   }
 }
+@media screen and (min-width: 768px) {
+  .about .about-center {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    gap: 3rem 2rem;
+  }
+  .about-img {
+    display: block;
+    position: relative;
+  }
+  .about-img::before {
+    content: "";
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    top: 2rem;
+    left: -2rem;
+    border: 0.25rem solid var(--clr-primary-5);
+    border-radius: var(--radius);
+  }
+}
 /*
 =============== 
 services
