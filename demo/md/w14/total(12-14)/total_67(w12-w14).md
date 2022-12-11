@@ -37,3 +37,10 @@
 ![](w14-p3-3.png)
 
 
+### w14-P4: finish About section with responsive design with phone, and desktop computer
+
+![](w14-p4-1.png)
+
+![](w14-p4-2.png)
+
+
