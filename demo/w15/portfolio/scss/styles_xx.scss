@@ -425,6 +425,7 @@ projects
   .projects{
     &-center{
      grid-template-rows: 15rem 15rem;
+     grid-template-columns: 1fr 1fr 1fr;
      gap: 1rem;
      grid-template-areas: 
      'a b b'
