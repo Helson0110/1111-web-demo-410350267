@@ -61,3 +61,12 @@ b6b92cf Helson0110      Thu Dec 22 22:38:13 2022 +0800  ### w16-P2:connect secti
 9f96ac4 Helson0110      Wed Dec 21 14:02:30 2022 +0800  ### w16-P1: show how to show odd number timeline
 996e6c3 Helson0110      Wed Dec 21 13:10:32 2022 +0800  ### w15-P2: Latest works using grid-template-areas
 ```
+
+### ALL-LOG
+
+![](git-push1.PNG)
+![](git-push2.PNG)
+![](git-push3.PNG)
+![](git-push4.PNG)
+![](git-push5.PNG)
+![](git-push6.PNG)
