@@ -1,5 +1,0 @@
-### Github and Vercel URL
-
-[Github URL](https://github.com/Helson0110/1111-web-demo-410350267)
-
-[Vercel URL](https://1111-web-demo-410350267-tfro.vercel.app/)
